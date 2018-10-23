@@ -6,7 +6,7 @@ This repository contains the Spanish Medical Abbreviation DataBase.
 This database is created automatically by detecting abbreviations and their potential definitions explicitly mentioned in the same sentence. These abbreviations are extracted from the metadata of different biomedical publications written in Spanish, which contain the titles and abstracts. 
 The sources of these publications are SciELO[1], IBECS[2] and Pubmed[3]. 
 The chosen schema is Dublin Core (http://dublincore.org/). We use the official ones from SciELO, and customized adaptations of the XML files to Dublin Core from IBECS and Pubmed metadata. 
-The source code used to generate this resources is available here https//github.com/PlanTL/SMADDB-generator
+The source code used to generate this resources is available here: https://github.com/PlanTL/SMADB-creator
 
 ## Directory structure
 
