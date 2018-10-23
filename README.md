@@ -10,7 +10,39 @@ The source code used to generate this resources is available here https//github.
 
 ## Directory structure
 
+<pre>
+abbreviations.tsv
+This file gathers all abbreviations in the database and displays information about them. Each column is 
+structured the following way:
+  - Abbreviation ID.
+  - Frequency: the number of times the abbreviation has been detected in the corpora, together with 
+  the definition in the same sentence.
+  - Abbreviation: the abbreviation in string format.
+  - Definitions: definition IDs where the abbreviation has been associated to.
+  - Appears on: publication IDs where the abbreviation has been mentioned.
 
+definitions.tsv
+This file gathers all definitions in the database and displays information about them. Each column is 
+structured in the following way:
+  - Definition ID.
+  - Frequency: the number of times the definition has been detected in the corpora, together with 
+  the abbreviation in the same sentence.
+  - Definition: the definition in string format.
+  - Abbreviations: abbreviation IDs where the definition has been associated to.
+  - Appears on: publication IDs where the definition has been mentioned.
+
+pairs.tsv
+This file gathers all abbreviation-definition pairs found in the corpora and displays information 
+about them. Each column is structured in the following way:
+  - Pair ID.
+  - Abbreviation ID.
+  - Definition ID.
+  - Frequency: the number of times this abbreviation-definition pair has been detected in the corpora.
+  - Abbreviation: abbreviation in string format.
+  - Definition: definition in string format.
+  - Appears on: publication IDs where we the pair is mentioned.
+
+</pre>
 
 ## Contact
 
