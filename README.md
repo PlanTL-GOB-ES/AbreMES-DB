@@ -1,4 +1,4 @@
-# SmaDB: Spanish Medical Abbreviation DataBase
+# sp_mediAbbreviationDB: Spanish Medical Abbreviation DataBase
 
 ## Introduction
 
