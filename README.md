@@ -7,7 +7,7 @@ This database is based on the "Allie Search Service for Abbreviation / Long Form
 The database is created automatically by detecting abbreviations and their potential definitions explicitly mentioned in the same sentence. These abbreviations are extracted from the metadata of different biomedical publications written in Spanish, which contain the titles and abstracts. 
 The sources of these publications are SciELO[2], IBECS[3] and Pubmed[4]. 
 The chosen schema is Dublin Core (http://dublincore.org/). We use the official ones from SciELO, and customized adaptations of the XML files to Dublin Core from IBECS and Pubmed metadata. 
-The source code used to generate this resources is available here: https://github.com/PlanTL/SMADB-creator
+The source code used to generate this resources is available here: https://github.com/PlanTL/sp_mediAbbreviationDB-creator
 
 ## Directory structure
 
