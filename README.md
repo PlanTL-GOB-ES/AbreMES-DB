@@ -2,7 +2,8 @@
 
 ## Introduction
 
-This repository contains the Spanish Medical Abbreviation DataBase (AbreMES-DB). 
+This repository contains Dase de datos de Abreviaturas Médicas en Español (Spanish Medical Abbreviation 
+DataBase, AbreMES-DB). 
 This database is based on the "Allie Search Service for Abbreviation / Long Form", developed by Yamamoto et al.[1], but it contains Spanish abbreviations and their definitions instead of English ones. 
 The database is created automatically by detecting abbreviations and their potential definitions explicitly mentioned in the same sentence. These abbreviations are extracted from the metadata of different biomedical publications written in Spanish, which contain the titles and abstracts. 
 The sources of these publications are SciELO[2], IBECS[3] and Pubmed[4]. 
