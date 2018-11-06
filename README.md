@@ -1,4 +1,4 @@
-# AbreMES-DB: Dase de datos de Abreviaturas Médicas en Español (Spanish Medical Abbreviation DataBase)
+# AbreMES-DB: Base de datos de Abreviaturas Médicas en Español (Spanish Medical Abbreviation DataBase)
 
 ## Introduction
 
