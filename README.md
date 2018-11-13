@@ -86,8 +86,7 @@ in the previous files. In each line we can find:
 
 ## Contact
 
-Ander Intxaurrondo (ander.intxaurrondo@bsc.es)
-
+PlanTL.Sanidad@bsc.es
 
 ## License
 
