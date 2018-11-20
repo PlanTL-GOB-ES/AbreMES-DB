@@ -86,7 +86,11 @@ in the previous files. In each line we can find:
 
 ## Contact
 
-PlanTL.Sanidad@bsc.es
+PlanTL.Sanidad@gmail.com
+
+## How to reference
+
+https://doi.org/10.5281/zenodo.1492192
 
 ## License
 
