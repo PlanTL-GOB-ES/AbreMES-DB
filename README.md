@@ -88,9 +88,10 @@ in the previous files. In each line we can find:
 
 PlanTL.Sanidad@gmail.com
 
-## How to reference
+##  Digital Object Identifier (DOI)
 
 https://doi.org/10.5281/zenodo.1492192
+
 
 ## License
 
