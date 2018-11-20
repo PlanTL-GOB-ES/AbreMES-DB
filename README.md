@@ -10,6 +10,13 @@ The sources of these publications are SciELO[2], IBECS[3] and Pubmed[4].
 The chosen schema is Dublin Core (http://dublincore.org/). We use the official ones from SciELO, and customized adaptations of the XML files to Dublin Core from IBECS and Pubmed metadata. 
 The source code used to generate this resource is available here: https://github.com/PlanTL/AbreMES-X
 
+
+##  Digital Object Identifier (DOI)
+
+https://doi.org/10.5281/zenodo.1492192
+
+
+
 ## Directory structure
 
 <pre>
@@ -87,10 +94,6 @@ in the previous files. In each line we can find:
 ## Contact
 
 PlanTL.Sanidad@gmail.com
-
-##  Digital Object Identifier (DOI)
-
-https://doi.org/10.5281/zenodo.1492192
 
 
 ## License
