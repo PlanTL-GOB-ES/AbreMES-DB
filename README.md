@@ -16,7 +16,6 @@ The source code used to generate this resource is available here: https://github
 https://doi.org/10.5281/zenodo.1492192
 
 
-
 ## Directory structure
 
 <pre>
@@ -93,7 +92,7 @@ in the previous files. In each line we can find:
 
 ## Contact
 
-ander.intxaurrondo@bsc.es
+Ander Intxaurrondo (ander.intxaurrondo@bsc.es)
 
 
 ## License
