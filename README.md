@@ -93,7 +93,7 @@ in the previous files. In each line we can find:
 
 ## Contact
 
-ander.intxaurrondo@gmail.com
+ander.intxaurrondo@bsc.es
 
 
 ## License
