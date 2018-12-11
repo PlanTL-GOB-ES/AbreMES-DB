@@ -1,11 +1,5 @@
 # AbreMES-DB: Base de datos de Abreviaturas Médicas en Español (Spanish Medical Abbreviation DataBase)
 
-
-##  Digital Object Identifier (DOI)
-
-https://doi.org/10.5281/zenodo.1492192
-
-
 ## Introduction
 
 This repository contains the Spanish Medical Abbreviation DataBase (base de datos de Abreviaturas Médicas en Español, 
